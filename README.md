@@ -6,7 +6,8 @@ Creating a URL shortener using Deno and Denjucks where submitted URLs are stored
 
 ## Installation
 1. Clone the repo
-2. Launch using VSCode Live Server
+2. Run the following command `deno run --allow-read --allow-write --allow-net bitly.js`
+3. Launch using VSCode Live Server
 
 ## Credits
 Many thanks to Alex Peattie for teaching me all about web development!
