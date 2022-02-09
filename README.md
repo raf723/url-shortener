@@ -5,6 +5,8 @@
 Creating a URL shortener using Deno and Denjucks where submitted URLs are stored in a key-value that persists on disk.
 
 ## Installation
+Prerequisite: Install Deno
+
 1. Clone the repo
 2. Run the following command `deno run --allow-read --allow-write --allow-net bitly.js`
 3. Enjoy
